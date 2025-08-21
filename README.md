@@ -27,7 +27,7 @@ pip install torch torchvision torchinfo matplotlib numpy
 
 ### Linux / macOS
 ```bash
-python3 main.py
+python3 main.p'/home/abrham/Pictures/Screenshots/Screenshot from 2025-08-21 16-29-41.png' '/home/abrham/Pictures/Screenshots/Screenshot from 2025-08-21 16-29-41.png' y
 ```
 
 ### Windows
@@ -55,7 +55,7 @@ Epoch 2/5, Training Loss: 0.0623, Training Accuracy: 0.8412, Val Loss: 0.0587, V
 ```
 
 After training, a plot will appear showing **accuracy and loss curves** over epochs.
-
+ ## [sample.png]
 ---
 
 ## File Structure
