@@ -55,7 +55,7 @@ Epoch 2/5, Training Loss: 0.0623, Training Accuracy: 0.8412, Val Loss: 0.0587, V
 ```
 
 After training, a plot will appear showing **accuracy and loss curves** over epochs.
- ## [sample.png]
+![Alt text](images/sample.png)
 ---
 
 ## File Structure
