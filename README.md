@@ -27,7 +27,7 @@ pip install torch torchvision torchinfo matplotlib numpy
 
 ### Linux / macOS
 ```bash
-python3 main.p'/home/abrham/Pictures/Screenshots/Screenshot from 2025-08-21 16-29-41.png' '/home/abrham/Pictures/Screenshots/Screenshot from 2025-08-21 16-29-41.png' y
+python3 main.py
 ```
 
 ### Windows
